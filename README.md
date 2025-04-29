@@ -47,6 +47,11 @@ portfolio/
 1. Clone the repository
 2. Open `index.html` in your browser
 3. Customize the content to match your profile
+   
+
+ ## 🌐 Live Website
+
+[Click here to view my portfolio]   https://techebuzz.github.io/Project/
 
 ## Contact
 - Email: kanjagerald717@gmail.com
